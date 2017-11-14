@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SuperShopDatabaseDataSet9" targetNamespace="http://tempuri.org/SuperShopDatabaseDataSet9.xsd" xmlns:mstns="http://tempuri.org/SuperShopDatabaseDataSet9.xsd" xmlns="http://tempuri.org/SuperShopDatabaseDataSet9.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="SuperShopDatabaseConnectionStringDB" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="SuperShopDatabaseConnectionStringDB (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Shop_Management_System_Project.Properties.Settings.GlobalReference.Default.SuperShopDatabaseConnectionStringDB" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="salesReportViewTableAdapter" GeneratorDataComponentClassName="salesReportViewTableAdapter" Name="salesReportView" UserDataComponentName="salesReportViewTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="SuperShopDatabaseConnectionStringDB (Settings)" DbObjectName="SuperShopDatabase.dbo.salesReportView" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT customer_name, employee_name, buy_date, invoice_number, product_name, quantity, per_unit_price, total_price FROM dbo.salesReportView</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="customer_name" DataSetColumn="customer_name" />
+              <Mapping SourceColumn="employee_name" DataSetColumn="employee_name" />
+              <Mapping SourceColumn="buy_date" DataSetColumn="buy_date" />
+              <Mapping SourceColumn="invoice_number" DataSetColumn="invoice_number" />
+              <Mapping SourceColumn="product_name" DataSetColumn="product_name" />
+              <Mapping SourceColumn="quantity" DataSetColumn="quantity" />
+              <Mapping SourceColumn="per_unit_price" DataSetColumn="per_unit_price" />
+              <Mapping SourceColumn="total_price" DataSetColumn="total_price" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SuperShopDatabaseDataSet9" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="SuperShopDatabaseDataSet9" msprop:Generator_UserDSName="SuperShopDatabaseDataSet9">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="salesReportView" msprop:Generator_TableClassName="salesReportViewDataTable" msprop:Generator_TableVarName="tablesalesReportView" msprop:Generator_TablePropName="salesReportView" msprop:Generator_RowDeletingName="salesReportViewRowDeleting" msprop:Generator_RowChangingName="salesReportViewRowChanging" msprop:Generator_RowEvHandlerName="salesReportViewRowChangeEventHandler" msprop:Generator_RowDeletedName="salesReportViewRowDeleted" msprop:Generator_UserTableName="salesReportView" msprop:Generator_RowChangedName="salesReportViewRowChanged" msprop:Generator_RowEvArgName="salesReportViewRowChangeEvent" msprop:Generator_RowClassName="salesReportViewRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="customer_name" msprop:Generator_ColumnVarNameInTable="columncustomer_name" msprop:Generator_ColumnPropNameInRow="customer_name" msprop:Generator_ColumnPropNameInTable="customer_nameColumn" msprop:Generator_UserColumnName="customer_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="employee_name" msprop:Generator_ColumnVarNameInTable="columnemployee_name" msprop:Generator_ColumnPropNameInRow="employee_name" msprop:Generator_ColumnPropNameInTable="employee_nameColumn" msprop:Generator_UserColumnName="employee_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="buy_date" msprop:Generator_ColumnVarNameInTable="columnbuy_date" msprop:Generator_ColumnPropNameInRow="buy_date" msprop:Generator_ColumnPropNameInTable="buy_dateColumn" msprop:Generator_UserColumnName="buy_date">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="invoice_number" msprop:Generator_ColumnVarNameInTable="columninvoice_number" msprop:Generator_ColumnPropNameInRow="invoice_number" msprop:Generator_ColumnPropNameInTable="invoice_numberColumn" msprop:Generator_UserColumnName="invoice_number" type="xs:int" />
+              <xs:element name="product_name" msprop:Generator_ColumnVarNameInTable="columnproduct_name" msprop:Generator_ColumnPropNameInRow="product_name" msprop:Generator_ColumnPropNameInTable="product_nameColumn" msprop:Generator_UserColumnName="product_name">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="150" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="quantity" msprop:Generator_ColumnVarNameInTable="columnquantity" msprop:Generator_ColumnPropNameInRow="quantity" msprop:Generator_ColumnPropNameInTable="quantityColumn" msprop:Generator_UserColumnName="quantity" type="xs:double" />
+              <xs:element name="per_unit_price" msprop:Generator_ColumnVarNameInTable="columnper_unit_price" msprop:Generator_ColumnPropNameInRow="per_unit_price" msprop:Generator_ColumnPropNameInTable="per_unit_priceColumn" msprop:Generator_UserColumnName="per_unit_price" type="xs:double" />
+              <xs:element name="total_price" msprop:Generator_ColumnVarNameInTable="columntotal_price" msprop:Generator_ColumnPropNameInRow="total_price" msprop:Generator_ColumnPropNameInTable="total_priceColumn" msprop:Generator_UserColumnName="total_price" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:salesReportView" />
+      <xs:field xpath="mstns:invoice_number" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

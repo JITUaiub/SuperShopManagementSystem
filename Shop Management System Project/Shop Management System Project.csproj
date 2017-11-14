@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75E4B3BD-9B94-4CEC-BBD2-A10501271426}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Shop_Management_System_Project</RootNamespace>
+    <AssemblyName>Shop Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Setup Files\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ApplicationIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7CEEB56238DAAFD036336600B7343AB9ECF38028</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Shop Management System Project_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>F:\Jitu_Project\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Information Classes\CompanyInfo.cs" />
+    <Compile Include="Panel Forms\FormCompanyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormCompanyInfo.Designer.cs">
+      <DependentUpon>FormCompanyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormDigitalClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormDigitalClock.Designer.cs">
+      <DependentUpon>FormDigitalClock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormHomePageEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormHomePageEmployee.Designer.cs">
+      <DependentUpon>FormHomePageEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageUserEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageUserEmployee.Designer.cs">
+      <DependentUpon>FormManageUserEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageUserAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageUserAdmin.Designer.cs">
+      <DependentUpon>FormManageUserAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageCustomer.Designer.cs">
+      <DependentUpon>FormManageCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet_LatestTransection.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet_LatestTransection.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Information Classes\User.cs" />
+    <Compile Include="Information Classes\CustomerInfo.cs" />
+    <Compile Include="User Panels\FormEmployeePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Panels\FormEmployeePanel.Designer.cs">
+      <DependentUpon>FormEmployeePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login Authentication\FormForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Authentication\FormForgotPassword.Designer.cs">
+      <DependentUpon>FormForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login Authentication\FormLogOn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Authentication\FormLogOn.Designer.cs">
+      <DependentUpon>FormLogOn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormAbout.Designer.cs">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormAddProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormAddProducts.Designer.cs">
+      <DependentUpon>FormAddProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login Authentication\FormSplashWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login Authentication\FormSplashWindow.Designer.cs">
+      <DependentUpon>FormSplashWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User Panels\FormAdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User Panels\FormAdminPanel.Designer.cs">
+      <DependentUpon>FormAdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormDatabaseBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormDatabaseBackup.Designer.cs">
+      <DependentUpon>FormDatabaseBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormHomePageAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormHomePageAdmin.Designer.cs">
+      <DependentUpon>FormHomePageAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormInventory.Designer.cs">
+      <DependentUpon>FormInventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageEmployees.Designer.cs">
+      <DependentUpon>FormManageEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormManageProducts.Designer.cs">
+      <DependentUpon>FormManageProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormSalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormSalesReport.Designer.cs">
+      <DependentUpon>FormSalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel Forms\FormSellProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel Forms\FormSellProducts.Designer.cs">
+      <DependentUpon>FormSellProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMethod.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SuperShopDatabaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSetCustomerList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSetCustomerList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSetLatestTransection.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSetLatestTransection.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSetProductName.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSetProductName.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSetRecipt.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSetRecipt.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SuperShopDatabaseDataSet_CustomerList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuperShopDatabaseDataSet_CustomerList.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Panel Forms\FormCompanyInfo.resx">
+      <DependentUpon>FormCompanyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormDigitalClock.resx">
+      <DependentUpon>FormDigitalClock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormHomePageEmployee.resx">
+      <DependentUpon>FormHomePageEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormManageUserEmployee.resx">
+      <DependentUpon>FormManageUserEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormManageUserAdmin.resx">
+      <DependentUpon>FormManageUserAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormManageCustomer.resx">
+      <DependentUpon>FormManageCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Panels\FormEmployeePanel.resx">
+      <DependentUpon>FormEmployeePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login Authentication\FormForgotPassword.resx">
+      <DependentUpon>FormForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login Authentication\FormLogOn.resx">
+      <DependentUpon>FormLogOn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormAddProducts.resx">
+      <DependentUpon>FormAddProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Panels\FormAdminPanel.resx">
+      <DependentUpon>FormAdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login Authentication\FormSplashWindow.resx">
+      <DependentUpon>FormSplashWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormDatabaseBackup.resx">
+      <DependentUpon>FormDatabaseBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormHomePageAdmin.resx">
+      <DependentUpon>FormHomePageAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormInventory.resx">
+      <DependentUpon>FormInventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormManageEmployees.resx">
+      <DependentUpon>FormManageEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormManageProducts.resx">
+      <DependentUpon>FormManageProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormSalesReport.resx">
+      <DependentUpon>FormSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel Forms\FormSellProducts.resx">
+      <DependentUpon>FormSellProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Configuration\packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Shop Management System Project_TemporaryKey.pfx" />
+    <None Include="SuperShopDatabaseDataSet.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet.xss">
+      <DependentUpon>SuperShopDatabaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet1.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet1.xss">
+      <DependentUpon>SuperShopDatabaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet2.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet2.xss">
+      <DependentUpon>SuperShopDatabaseDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet3.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet3.xss">
+      <DependentUpon>SuperShopDatabaseDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet4.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet4.xss">
+      <DependentUpon>SuperShopDatabaseDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet5.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet5.xss">
+      <DependentUpon>SuperShopDatabaseDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet6.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet6.xss">
+      <DependentUpon>SuperShopDatabaseDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet7.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet7.xss">
+      <DependentUpon>SuperShopDatabaseDataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet8.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet8.xss">
+      <DependentUpon>SuperShopDatabaseDataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet9.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet9.xss">
+      <DependentUpon>SuperShopDatabaseDataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetCustomerList.xsc">
+      <DependentUpon>SuperShopDatabaseDataSetCustomerList.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetCustomerList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSetCustomerList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSetCustomerList.xss">
+      <DependentUpon>SuperShopDatabaseDataSetCustomerList.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetLatestTransection.xsc">
+      <DependentUpon>SuperShopDatabaseDataSetLatestTransection.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetLatestTransection.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSetLatestTransection.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSetLatestTransection.xss">
+      <DependentUpon>SuperShopDatabaseDataSetLatestTransection.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetProductName.xsc">
+      <DependentUpon>SuperShopDatabaseDataSetProductName.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetProductName.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSetProductName.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSetProductName.xss">
+      <DependentUpon>SuperShopDatabaseDataSetProductName.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetRecipt.xsc">
+      <DependentUpon>SuperShopDatabaseDataSetRecipt.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSetRecipt.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSetRecipt.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSetRecipt.xss">
+      <DependentUpon>SuperShopDatabaseDataSetRecipt.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet_CustomerList.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet_CustomerList.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet_CustomerList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet_CustomerList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet_CustomerList.xss">
+      <DependentUpon>SuperShopDatabaseDataSet_CustomerList.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet_LatestTransection.xsc">
+      <DependentUpon>SuperShopDatabaseDataSet_LatestTransection.xsd</DependentUpon>
+    </None>
+    <None Include="SuperShopDatabaseDataSet_LatestTransection.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SuperShopDatabaseDataSet_LatestTransection.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SuperShopDatabaseDataSet_LatestTransection.xss">
+      <DependentUpon>SuperShopDatabaseDataSet_LatestTransection.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Configuration\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ApplicationIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

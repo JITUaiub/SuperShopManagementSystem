@@ -1,0 +1,105 @@
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.exe.config
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.exe
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.pdb
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csprojResolveAssemblyReference.cache
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Properties.Resources.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csproj.GenerateResource.Cache
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.exe
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.pdb
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormSplashWindow.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormAdminPanel.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\MetroFramework.dll
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormAddProducts.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormHomePage.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormAbout.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormDatabaseBackup.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormInventory.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageEmployees.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageProducts.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSalesReport.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSellProducts.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormLogOn.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormForgotPassword.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.exe.config
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.exe
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.pdb
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.exe
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.pdb
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\MetroFramework.dll
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\MetroFramework.Fonts.dll
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csprojResolveAssemblyReference.cache
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormForgotPassword.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormLogOn.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormAbout.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormAddProducts.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormAdminPanel.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormSplashWindow.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormDatabaseBackup.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormHomePage.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormInventory.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageEmployees.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageProducts.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSalesReport.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSellProducts.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Properties.Resources.resources
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csproj.GenerateResource.Cache
+F:\Jitu_Project\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\islam shamiul\Desktop\JITU_C#_Project\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.exe.config
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.exe
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.pdb
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.exe
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System Project.pdb
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\MetroFramework.dll
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csprojResolveAssemblyReference.cache
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormForgotPassword.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormLogOn.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormAbout.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormAddProducts.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormAdminPanel.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.FormSplashWindow.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormDatabaseBackup.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormHomePage.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormInventory.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageEmployees.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageProducts.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSalesReport.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSellProducts.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Properties.Resources.resources
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csproj.GenerateResource.Cache
+C:\Users\islam shamiul\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Admin_Panel_Forms.FormManageCustomer.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormAbout.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormDatabaseBackup.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageEmployees.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageProducts.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSalesReport.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormSellProducts.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Properties.Resources.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csproj.GenerateResource.Cache
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageUserAdmin.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageUserEmployee.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormHomePageAdmin.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormHomePageEmployee.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Login_Authentication.FormLogOn.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormDigitalClock.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormCompanyInfo.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System Project.csprojResolveAssemblyReference.cache
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System.exe.config
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System.exe.manifest
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System.application
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System.exe
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\bin\Debug\Shop Management System.pdb
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System.exe.manifest
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System.application
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System.exe
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop Management System.pdb
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormManageCustomer.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Login_Authentication.FormForgotPassword.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormAddProducts.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Login_Authentication.FormSplashWindow.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.Panel_Forms.FormInventory.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.User_Panels.FormEmployeePanel.resources
+C:\Users\JITU-PC\Desktop\JITU_C#_Project final\Project Files\Shop Management System Project\Shop Management System Project\obj\Debug\Shop_Management_System_Project.User_Panels.FormAdminPanel.resources

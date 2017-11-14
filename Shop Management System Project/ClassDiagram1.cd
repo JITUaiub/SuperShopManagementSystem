@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shop_Management_System_Project.Information_Classes.CompanyInfo" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Information Classes\CompanyInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Information_Classes.CustomerInfo" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABACAAAAgAAAAAA=</HashCode>
+      <FileName>Information Classes\CustomerInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Login_Authentication.FormForgotPassword" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAACYACQAAAAAACCIAIASAAAAQABABoAAAQCAAAE=</HashCode>
+      <FileName>Login Authentication\FormForgotPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Login_Authentication.FormSplashWindow" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAGYACQAQAAAAACAACACAAAAIAAAAAAAAABAAAA=</HashCode>
+      <FileName>Login Authentication\FormSplashWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.MainMethod" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MainMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormAddProducts" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAgSAAAAAAAACAAQBSCgAAggRBASgKAIAIAAI=</HashCode>
+      <FileName>Panel Forms\FormAddProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet" Collapsed="true">
+    <Position X="7.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAwAEAAJABABAQQAgCAgCQBgAAgAAAIEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet_CustomerList" Collapsed="true">
+    <Position X="9.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAwAAAAJABAAAQAAAIAgCQBkAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet_LatestTransection" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAASAAAAAgCQBgAAAAQAAEABDA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet1" Collapsed="true">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAwAEAAJABABAQQAgCAgCQBgAAgAAAIEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet2" Collapsed="true">
+    <Position X="14.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAwAEAAJABABAQQAgCAgCQBgAAgAAAIEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet3" Collapsed="true">
+    <Position X="16.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAwAEAAJABABAQQAgCAgCQBgAAgAAAIEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAEwAEAAJABAhATQAgKAgCQB0AAgAQIIFABDQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQAAAAEwAEAAJABAhATQAgKAgCQB0AAgAQIIFABDQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet6" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Shop_Management_System_Project.SuperShopDatabaseDataSet6.ProductsRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet6.ProductsDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet6.ProductsRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet6.ProductsRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABABAQAAAAAgCQBgAAAAAAIEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet7" Collapsed="true">
+    <Position X="5.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEwAAAAJABAgARAAAAAgCQBwAAAAAIAFABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet8" Collapsed="true">
+    <Position X="7.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEwAAAAJABAgARAAAAAgCQBwAAAAAIAFABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet9" Collapsed="true">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAASAAAAAgCQBgAAAAQAAEABDA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetCustomerList" Collapsed="true">
+    <Position X="11" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAwAAAAJABAAAQAAAIAgCQBkAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetLatestTransection" Collapsed="true">
+    <Position X="12.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEwAAAAJABAgARAAAAAgCQBwAAAAAIAFABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetProductName" Collapsed="true">
+    <Position X="14.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABABAQAAAAAgCQBgAAAAAAIEABBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetRecipt" Collapsed="true">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEwAAAAJABAgAQAAAAAgCQBwAAAAAAAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.User_Panels.FormAdminPanel" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>sTJJBEKIgPQCsBVkEbGAAFBSIBAQRIiARoYoAwjmEIU=</HashCode>
+      <FileName>User Panels\FormAdminPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.User_Panels.FormEmployeePanel" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kTABBAKIgGQCoBUEEbGAAEBSIAAARIiARIYIAQikAAA=</HashCode>
+      <FileName>User Panels\FormEmployeePanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Information_Classes.User" Collapsed="true">
+    <Position X="11" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAAACAAAAAAAAAAAAQAAAAAAAACAQAAgAAAAAA=</HashCode>
+      <FileName>Information Classes\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Login_Authentication.FormLogOn" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAgACaACQAAAAQACCAAAASAgAAQIAAB4AcAQDAAEI=</HashCode>
+      <FileName>Login Authentication\FormLogOn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormAbout" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8QAAAABAICgAABAgAACAAAAiCgAAAAABBAAIAABAAAA=</HashCode>
+      <FileName>Panel Forms\FormAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormCompanyInfo" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACEAABAAAACAAAACQjAACAAAAKAIAABAAIA=</HashCode>
+      <FileName>Panel Forms\FormCompanyInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormDatabaseBackup" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAiAAABAgAACABAACAgEAAACCACAaEBAIAAA=</HashCode>
+      <FileName>Panel Forms\FormDatabaseBackup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormDigitalClock" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAACAICgAABAAAACAAAACAgAAAAAEAIQAAAAAAAA=</HashCode>
+      <FileName>Panel Forms\FormDigitalClock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormHomePageAdmin" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQACAABACgAgAgIAQCAAAECAgAAEAAEgCAIAAAFgAA=</HashCode>
+      <FileName>Panel Forms\FormHomePageAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormHomePageEmployee" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAACgAgAgIAQCAAAECAgQAUAAEgCAIAAAEgAA=</HashCode>
+      <FileName>Panel Forms\FormHomePageEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormManageEmployees" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YQuAgCAAkyAggRAADACAAABGCgAAgIAgIDgMAQCQkA4=</HashCode>
+      <FileName>Panel Forms\FormManageEmployees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormManageProducts" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwABgAAIgCAAAAgAAACACABCAgAAABQAACgoAAKQASQ=</HashCode>
+      <FileName>Panel Forms\FormManageProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormManageUserAdmin" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAECAAAgAACgCEAAACAgAAAIAgEKqIBAEAAIQ=</HashCode>
+      <FileName>Panel Forms\FormManageUserAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormManageUserEmployee" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQIAECAAAgAAAACAAAACAgAAAIAAEKoIAAEAAIA=</HashCode>
+      <FileName>Panel Forms\FormManageUserEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormSalesReport" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABgAAAgCAAAAAAAACACABCAgAAAAAAACgIAACAAQw=</HashCode>
+      <FileName>Panel Forms\FormSalesReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormSellProducts" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAgAEIQSKAiKBBAAWABgFyCpQYjhADACo4OAEQwAI=</HashCode>
+      <FileName>Panel Forms\FormSellProducts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormInventory" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAgAAIiCAAAAAAAACACABCAgAAAAQIAAgoAgCAAAA=</HashCode>
+      <FileName>Panel Forms\FormInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Panel_Forms.FormManageCustomer" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwABgAEAgCAACBAAEECGCABCAgAABBAAACkIEAKQAQQ=</HashCode>
+      <FileName>Panel Forms\FormManageCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.Properties.Settings" Collapsed="true">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAIAAAAAABAAAAAAAACAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetTableAdapters.AdminTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetTableAdapters.EmployeeTableAdapter" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetTableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACABAABABAEBAAAAMAAgAAACgAAAASYAAQAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet_CustomerListTableAdapters.CustomerTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet_CustomerListTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet_LatestTransectionTableAdapters.salesReportViewTableAdapter" Collapsed="true">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet_LatestTransectionTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet1TableAdapters.AdminTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet1TableAdapters.EmployeeTableAdapter" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet1TableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACABAABABAEBAAAAMAAgAAACgAAAASYAAQAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet2TableAdapters.AdminTableAdapter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet2TableAdapters.EmployeeTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet2TableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet2TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACABAABABAEBAAAAMAAgAAACgAAAASYAAQAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet3TableAdapters.AdminTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet3TableAdapters.EmployeeTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet3TableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet3TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="12.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACABAABABAEBAAAAMAAgAAACgAAAASYAAQAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.AdminTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.CustomerTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.EmployeeTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.itemsTableAdapter" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.sales_reportTableAdapter" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.salesReportViewTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet4TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="16.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACABAABABAEBAABANBAgAAACgACAASYAAQAALQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.AdminTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.CustomerTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.EmployeeTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.itemsTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.sales_reportTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.salesReportViewTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet5TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="14.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACABAABABAEBAABANBAgAAACgACAASYAAQAALQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet6TableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet6TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAYAAAAAJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet7TableAdapters.itemsTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet7TableAdapters.sales_reportTableAdapter" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet7TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="11" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAABANBAgAAACgAAAAAQAAAAABQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet8TableAdapters.itemsTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet8TableAdapters.sales_reportTableAdapter" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet8TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="7.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAABANBAgAAACgAAAAAQAAAAABQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet9TableAdapters.salesReportViewTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSet9TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetCustomerListTableAdapters.CustomerTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetCustomerListTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetLatestTransectionTableAdapters.itemsTableAdapter" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetLatestTransectionTableAdapters.sales_reportTableAdapter" Collapsed="true">
+    <Position X="14.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetLatestTransectionTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAABANBAgAAACgAAAAAQAAAAABQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetProductNameTableAdapters.ProductsTableAdapter" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetProductNameTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMAAgAAACgAAAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetReciptTableAdapters.itemsTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shop_Management_System_Project.SuperShopDatabaseDataSetReciptTableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAEBAAAAMBAgAAACgAAAAAQAAAAABQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
