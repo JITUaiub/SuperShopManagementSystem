@@ -1,0 +1,1 @@
+Data Source=(localdb)\v11.0;Initial Catalog=SuperShopDatabase;Integrated Security=True
